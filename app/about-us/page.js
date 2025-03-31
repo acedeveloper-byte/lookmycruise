@@ -70,7 +70,7 @@ const page = () => {
                 </div>
 
                 {/* Booking Section */}
-                <section style={{ marginTop: "18rem" }}>
+                <section style={{ marginTop: "1rem" }}>
                     <div className="text-center py-4 bg-light rounded shadow">
                         <h5 className="fw-bold">MAKE EASY BOOKINGS HAPPEN NOW</h5>
                         <button className="btn btn-success px-4 py-2 my-2 fw-bold">+1-777-579-728</button>
