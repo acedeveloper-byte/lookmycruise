@@ -38,7 +38,7 @@ const Footer = () => {
                   href="tel:  +1(000) 000-0000"
                   className="text-decoration-none text-dark"
                 >
-                  <span>Contact Us:</span>   <MdCall size={20}  />
+                  <span>Contact Us:</span>   <MdCall size={20} />
                   +1(000) 000-0000
                 </a>
               </h6>
@@ -154,11 +154,11 @@ const Footer = () => {
        <FaPinterest />
        <FaLinkedin /> */}
 
-<hr />
+            <hr />
 
-<div className="">
-<p><span className="fw-bold">Disclaimer:</span> Look My Cruise is your one-stop shop for planning your upcoming cruise vacation. We assist you in locating the ideal cruise that fits your tastes and price range. Please be aware that we are not affiliated with any cruise line; rather, we are an independent third-party agent. We match clients with their ideal cruises for an affordable, unforgettable getaway. Get in touch with us right now to simplify your trip preparation.</p>
-  </div>
+            <div className="">
+              <p><span className="fw-bold">Disclaimer:</span> Look My Cruise is your one-stop shop for planning your upcoming cruise vacation. We assist you in locating the ideal cruise that fits your tastes and price range. Please be aware that we are not affiliated with any cruise line; rather, we are an independent third-party agent. We match clients with their ideal cruises for an affordable, unforgettable getaway. Get in touch with us right now to simplify your trip preparation.</p>
+            </div>
 
           </div>
 
