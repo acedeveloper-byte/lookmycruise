@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-    title: "About Us | LookMyCruise",
+    title: "Terms and Conditions | Look My Cruise",
     description: "",
 };
 

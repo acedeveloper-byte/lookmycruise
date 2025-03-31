@@ -183,3 +183,37 @@ textarea::placeholder {
   box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px !important;
 }
 
+
+
+.banner-common {
+    display: flex;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.banner-common img {
+  
+  width:32%;
+  height:auto;
+  object-fit: cover;
+}
+
+.form-contact-input {
+  border: 1px solid #d9d9d9;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #fff;
+  width: 75%;
+  margin: 11px;
+  color: #d9d9d9;
+}
+
+.form-contact-input-button {
+  border: 1px solid #d9d9d9;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #FF5F00;
+  width: 75%;
+  margin: 11px;
+  color: #fff;
+}

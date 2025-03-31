@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-    title: "About Us | LookMyCruise",
-    description: "",
+    title: "Contact Us | Look My Cruise",
+    description: "Finds more ways to connect with us",
 };
 
 export default function RootLayout({ children }) {
