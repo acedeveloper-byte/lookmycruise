@@ -4,33 +4,38 @@ import { Container, Row, Col, Card } from "react-bootstrap";
 
 const destinations = [
     {
-        name: "BAHAMAS",
         title: "5 Night Western Caribbean Cruise",
         description: "Starting from",
         price: "40,000/person",
         extra: "Taxes & fees included.*",
         image: "/images/caribbean-cruise.png",
     },
+
     {
-        name: "EUROPE",
-        image: "/images/europe.png",
+        title: "5 Night Western Caribbean Cruise",
+        description: "Starting from",
+        price: "40,000/person",
+        extra: "Taxes & fees included.*",
+        image: "/images/caribbean-cruise.png",
     },
+
+
     {
-        name: "CARIBBEAN",
-        image: "/images/caribbean.png",
+        title: "5 Night Western Caribbean Cruise",
+        description: "Starting from",
+        price: "40,000/person",
+        extra: "Taxes & fees included.*",
+        image: "/images/caribbean-cruise.png",
     },
+
     {
-        name: "ALASKA",
-        image: "/images/alaska.png",
+        title: "5 Night Western Caribbean Cruise",
+        description: "Starting from",
+        price: "40,000/person",
+        extra: "Taxes & fees included.*",
+        image: "/images/caribbean-cruise.png",
     },
-    {
-        name: "MEXICO",
-        image: "/images/maxico.png",
-    },
-    {
-        name: "CANADA",
-        image: "/images/canada.png",
-    },
+   
 ];
 
 const CruiseCards = () => {
