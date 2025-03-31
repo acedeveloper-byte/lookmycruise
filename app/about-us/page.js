@@ -15,7 +15,23 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Header from "@/components/includes/Header";
 import Footer from "@/components/includes/Footer";
 
+
+
 const page = () => {
+    const [isMobile, setIsMobile] = useState(false);
+
+
+    useEffect(() => {
+        const checkScreenSize = () => {
+            setIsMobile(window.innerWidth <= 768);
+        };
+        checkScreenSize();
+        window.addEventListener("resize", checkScreenSize);
+        return () => window.removeEventListener("resize", checkScreenSize);
+    }, []);
+
+
+
     return (
         <>
             <Header />
@@ -41,14 +57,18 @@ const page = () => {
                             width: "55%",
 
                         }} className="img-fluid rounded shadow mb-3" />
-                        <img src="/images/cruises/mexico-cruise.png" alt="Cruise" style={{
-                            position: "absolute",
-                            zIndex: "999999",
-                            top: "107%",
-                            left: "16%",
-                            width: "22%",
-                            height: "45%",
-                        }} className="img-fluid rounded shadow ms-3" />
+
+                        {isMobile ? null :
+                            <img src="/images/cruises/mexico-cruise.png" alt="Cruise" style={{
+
+                                position: "absolute",
+                                zIndex: "999999",
+                                top: "107%",
+                                left: "16%",
+                                width: "22%",
+                                height: "45%",
+                            }} className="img-fluid rounded shadow ms-3" />
+                        }
                     </div>
                     <div className="col-md-7">
                         <hr />
