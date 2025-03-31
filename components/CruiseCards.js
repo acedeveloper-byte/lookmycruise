@@ -67,16 +67,16 @@ const CruiseCards = () => {
       <Container>
         <Row>
           {dests.map((destination, index) => (
-            <Col key={index} className="col-md-1 " >
+            <Col key={index} className="col-md-2 " >
               <p style={{fontSize: '13px'}}>{destination}</p>
             </Col>
           ))}
         </Row>
 
-        {/* <div className="text-center mb-4">
+        <div className="text-center mb-4">
                     <h2 className="text-primary fw-bold">EXPLORE</h2>
                     <p className="text-muted">Today's Top Cruise Destinations</p>
-                </div> */}
+                </div>
         <Row className="justify-content-center my-2">
           {destinations.map((destination, index) => (
             <Col md={4} key={index} className="d-flex justify-content-center">
