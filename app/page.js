@@ -7,6 +7,7 @@ import Footer from "@/components/includes/Footer";
 import SearchEngine from "@/components/SearchEngine";
 import CruiseCards from "@/components/CruiseCards";
 import Topdestination from "@/components/HomeSection/Topdestinations";
+import OceanCruise from "@/components/OceanCruise";
 
 
 export default function Home() {
@@ -16,6 +17,7 @@ export default function Home() {
       <SearchEngine />
       <CruiseCards />
       <CruiseHome />
+      <OceanCruise />
       <Topdestination />
       <Footer />
     </>
