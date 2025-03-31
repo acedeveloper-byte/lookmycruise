@@ -1,21 +1,20 @@
 "use client";
 import React from "react";
-import CruiseHeader from "@/components/CruiseHeader";
 import { Col, Container, Table } from "react-bootstrap";
-import CruiseFooter from "@/components/CruiseFooter";
-import CruiseBanner from "@/components/CruiseBanner";
+import Footer from "@/components/includes/Footer";
+import Header from "@/components/includes/Header";
 
 const page = () => {
   return (
     <React.Fragment>
-      <CruiseHeader />
+      <Header />
       <div className="hero-section">
         {/* Background Image */}
-        <div className="hero-image">
+        <div className="banner-common">
           <img
-            src="/images/cruise-home-poster.png"
+            src="/images/logo/logo.png"
             alt="Cruise Ship"
-            className="img-fluid"
+            className="img-fluid "
           />
         </div>
       </div>
@@ -166,10 +165,8 @@ const page = () => {
           fees are included in our total costs.)</p>
         </Container>
       </section>
-      <section>
-        <CruiseBanner />
-      </section>
-      <CruiseFooter />
+
+      <Footer />
     </React.Fragment>
   );
 };
