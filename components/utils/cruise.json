@@ -1,0 +1,504 @@
+[
+    {
+      "name": "azamara",
+      "html": "<section class='container'> <div class='mt-5'><h4>Exclusive Azamara Cruise Offers</h4><p>      Embark on a luxurious journey with <strong>Azamara Cruises</strong> and explore the world like never before. Whether you're drawn to the breathtaking landscapes of Africa, the pristine Caribbean coastline, the cultural wonders of Western Europe, or the scenic beauty of Australia, New Zealand, Central America, and the Mediterranean—Azamara takes you there in style.</p><p>      Designed for intimate and immersive travel experiences, Azamara’s boutique ships allow you to discover hidden gems and off-the-beaten-path destinations. Enjoy the perfect blend of <strong>luxury and adventure</strong> aboard a 5-star floating boutique hotel.</p>     <strong>Onboard Experiences with Azamara Cruises</strong><h5>Entertainment & Shows</h5><p>      Azamara Cruises elevates your evenings with grand events and live performances by talented artists. The exclusive <strong>AzAmazing Celebrations</strong> and <strong>White Night events</strong> promise unforgettable nights filled with music, dancing, and cultural showcases. Throughout your journey, enjoy live entertainment, concerts, and themed performances that bring destinations to life.</p>     <h5>Exceptional Dining & Lounge Experiences</h5><p>      Indulge in <strong>a world-class culinary journey</strong> with Azamara’s diverse dining options. Choose from:</p><ul><li><strong>Specialty restaurants</strong> featuring gourmet cuisine</li><li><strong>Main dining and casual eateries</strong> for every taste</li><li><strong>24/7 room service</strong> for ultimate convenience</li><li><strong>Bars and lounges</strong> offering fine wines and premium spirits</li><li><strong>Dedicated cafés</strong> with gluten-free, vegan, and specialty menus</li></ul>     <h5>Exciting Onboard Activities</h5><p>      With <strong>Azamara Cruises, boredom is never an option</strong>. Guests can enjoy a variety of activities, including:</p><ul><li> <strong>Painting workshops</strong></li><li> <strong>Ping pong & shuffleboard</strong></li><li> <strong>Darts & other leisure games</strong></li></ul>     <h5>Ultimate Relaxation & Wellness</h5><p>      Pamper yourself at <strong>The Sanctum Spa</strong>, featuring:</p><ul><li><strong>Rejuvenating spa treatments</strong>, including Biotec facials and body sculpting</li><li><strong>Aroma stone therapy & acupuncture</strong> for deep relaxation</li><li><strong>State-of-the-art fitness centers</strong> with personal training options</li></ul>     <p>      Experience <strong>Azamara’s perfect fusion of comfort, elegance, and adventure</strong>, ensuring a voyage that’s both <strong>indulgent and unforgettable</strong>.</p></div></section>",
+      "data": [
+        {
+          "title": "4 Nights Mediterranean Cruise",
+          "ship": "Azamara Onward",
+          "departing_from": "Barcelona",
+          "price_from": "$500",
+          "image": "/images/cruise/image-1.png",
+          "logo": "/images/cruise/azamara-cruise-logo.png",
+          "offers": [
+            "Instant Savings up to $150 Plus Onboard Credit",
+            "Free Gratuities",
+            "Exclusive discount for 2nd Guest"
+          ],
+          "contact": "+1-888-539-5271"
+        },
+        {
+          "title": "10 Nights Europe Cruise",
+          "ship": "Azamara Onward",
+          "departing_from": "Southampton",
+          "price_from": "$1090",
+          "image": "/images/cruise/image-2.png",
+          "logo": "/images/cruise/azamara-cruise-logo.png",
+          "offers": [
+            "Up to 15% off",
+            "Onboard Credit",
+            "Free Gratuities & Kids Sail Free"
+          ],
+          "contact": "+1-888-539-5271"
+        },
+        {
+          "title": "10 Nights Mediterranean Icons Voyage",
+          "ship": "Azamara Onward",
+          "departing_from": "Civitavecchia (Rome)",
+          "price_from": "$180",
+          "image": "/images/cruise/image-3.png",
+          "logo": "/images/cruise/azamara-cruise-logo.png",
+          "offers": [
+            "Instant savings up to 25% plus Kids Sail Free",
+            "Free Gratuities",
+            "Exclusive discount for 2nd Guest"
+          ],
+          "contact": "+1-888-539-5271"
+        },
+        {
+          "title": "5 Nights Mediterranean Cruise",
+          "ship": "Azamara Quest",
+          "departing_from": "Barcelona",
+          "price_from": "$600",
+          "image": "/images/cruise/image-4.png",
+          "logo": "/images/cruise/azamara-cruise-logo.png",
+          "offers": [
+            "Instant Savings up to $350",
+            "Free Gratuities",
+            "Onboard Credit Plus Kids under 12 Sail Free"
+          ],
+          "contact": "+1-888-539-5271"
+        },
+        {
+          "title": "15 Nights Bahamas Cruise",
+          "ship": "Azamara Quest",
+          "departing_from": "Cape Town",
+          "price_from": "$400",
+          "image": "/images/cruise/image-5.png",
+          "logo": "/images/cruise/azamara-cruise-logo.png",
+          "offers": [
+            "Up to 25% instant savings",
+            "Free Gratuities",
+            "On Board Credit"
+          ],
+          "contact": "+1-888-539-5271"
+        },
+        {
+          "title": "7 Nights Caribbean Cruise",
+          "ship": "Azamara Journey",
+          "departing_from": "Miami",
+          "price_from": "$750",
+          "image": "/images/cruise/cruise_img6.jpg",
+          "logo": "/images/cruise/azamara-cruise-logo.png",
+          "offers": [
+            "Early Booking Discount",
+            "Up to $500 Onboard Credit",
+            "Kids Sail Free"
+          ],
+          "contact": "+1-888-539-5271"
+        }
+      ]
+    },
+  
+    {
+      "name": "disney",
+      "html": "<section class='container'><div class='mt-5'><h4>Selected Disney Cruise Offers</h4><p>Disney Cruise Line offers an unforgettable blend of luxury and magic, bringing the charm of Disney to the high seas. The fleet includes the <strong>Disney Dream, Disney Fantasy, Disney Magic, and Disney Wonder</strong>, each boasting elegant amenities and signature Disney-themed decor. Onboard, guests can enjoy <strong>Broadway-style shows, character meet-and-greets, and immersive dining experiences</strong> that transport them to enchanted worlds.</p><p>For those seeking relaxation, the cruise features <strong>exclusive adults-only areas</strong>, providing a peaceful retreat. Meanwhile, Disney’s unique <strong>rotational dining system</strong> ensures guests experience a variety of gourmet meals at different themed restaurants each night.</p><p>What truly sets Disney Cruise Line apart is its <strong>exceptional service</strong>. Every crew member is dedicated to providing top-tier hospitality, making each guest feel like royalty. Kids can explore <strong>Oceaneer Club and Oceaneer Lab</strong>, while teens and tweens have their own dedicated spaces at <strong>Edge and Vibe</strong>. Additionally, Disney’s private island, <strong>Castaway Cay</strong>, offers pristine beaches, snorkeling, and exciting water sports, making it a tropical paradise for guests of all ages.</p></div></section><section class='container'><div class='mt-5'><h4>Onboard Amenities of Disney Cruise Line</h4><strong>Entertainment and Shows</strong><p>Experience world-class entertainment while onboard. From <strong>live stage performances</strong> and <strong>big-screen movies</strong> to magical <strong>character interactions</strong>, there’s something for everyone. Families traveling with children can enjoy spectacular productions like <strong>Disney Magic</strong>, <strong>Disney Dreams</strong>, and <strong>Cinderella</strong>, along with fun-filled deck parties.</p><strong>Games</strong><p>Disney Cruise Line offers an exciting variety of games and activities for families. Kids can join themed clubs such as <strong>Disney’s Oceaneer Club</strong> (ages 3-19), <strong>Edge</strong> (ages 11-14), and <strong>Vibe</strong> (ages 14-17). These engaging spaces allow children to make new friends and enjoy immersive, interactive experiences.</p><strong>Adventure for Everyone</strong><p>No matter the destination, Disney Cruises offer thrilling excursions. Enjoy <strong>scuba diving in Bermuda, snorkeling in the Caribbean, sea lion encounters in the Bahamas, and whale watching in Alaska</strong>. Each stop provides a new adventure and unforgettable experiences.</p><strong>Revitalization</strong><p>Indulge in a relaxing spa retreat while at sea. Disney Cruise Line features luxury spa and salon services for both adults and children. At <strong>The Senses Spa & Salon</strong>, guests can unwind with a <strong>dry sauna, Roman bath, aromatherapy treatments</strong>, and more. Pamper yourself with <strong>facial treatments, Thai herbal poultice massages, and deep tissue massages</strong> to recharge and rejuvenate.</p></div></section>",
+      "data": [
+        {
+          "title": "3 Nights Bahamas Cruise",
+          "ship": "Disney Magic",
+          "departing_from": "Fort Lauderdale",
+          "price": "$500",
+          "offers": [
+            "Instant Savings up to $150 Plus Onboard Credit",
+            "Free Gratuities",
+            "Exclusive discount for 2nd Guest"
+          ],
+          "image": "/images/cruise/image-1.png",
+          "logo": "/images/cruise/disney-logon.png",
+          "booking_number": "+1-888-539-5271"
+        },
+        {
+          "title": "3 Nights Australia Cruise",
+          "ship": "Disney Wonder",
+          "departing_from": "Melbourne",
+          "price": "$1090",
+          "offers": [
+            "Up to 15% off",
+            "Onboard Credit",
+            "Free Gratuities & Kids Sail Free"
+          ],
+          "image": "/images/cruise/image-2.png",
+          "logo": "/images/cruise/disney-logon.png",
+          "booking_number": "+1-888-539-5271"
+        },
+        {
+          "title": "3 Nights Pacific Coastal Cruise",
+          "ship": "Disney Magic",
+          "departing_from": "San Diego",
+          "price": "$180",
+          "offers": [
+            "Instant savings up to 25% plus Kids Sail Free",
+            "Free Gratuities",
+            "Exclusive discount for 2nd Guest"
+          ],
+          "image": "/images/cruise/image-3.png",
+          "logo": "/images/cruise/disney-logon.png",
+          "booking_number": "+1-888-539-5271"
+        },
+        {
+          "title": "4 Nights Western Caribbean",
+          "ship": "Disney Magic",
+          "departing_from": "Galveston",
+          "price": "$600",
+          "offers": [
+            "Instant Savings up to $350",
+            "Free Gratuities",
+            "Onboard Credit Plus Kids under 12 Sail Free"
+          ],
+          "image": "/images/cruise/image-4.png",
+          "logo": "/images/cruise/disney-logon.png",
+          "booking_number": "+1-888-539-5271"
+        },
+        {
+          "title": "7 Nights Mexican Riviera",
+          "ship": "Disney Wonder",
+          "departing_from": "Long Beach",
+          "price": "$400",
+          "offers": [
+            "Up to 25% instant savings",
+            "Free Gratuities",
+            "On Board Credit"
+          ],
+          "image": "/images/cruise/image-5.png",
+          "logo": "/images/cruise/disney-logon.png",
+          "booking_number": "+1-888-539-5271"
+        }
+      ]
+    },
+    {
+      "name": "royal-caribbean",
+      "html": "<section class='container'><div class='mt-5'><h4>Exclusive Royal Caribbean Cruise Offers</h4><p>      Step into a world of luxury and adventure with <strong>Royal Caribbean Cruises</strong>. Renowned for its unparalleled comfort and elegance, Royal Caribbean offers an experience unlike any other. With its headquarters in Miami, this cruise line operates across six continents, covering more than 270 destinations in 60 countries.  </p><p>      Whether you dream of basking under the Caribbean sun, strolling along Mexico’s powdery beaches, witnessing Alaska’s breathtaking landscapes, or immersing yourself in the romantic charm of European capitals like Barcelona—Royal Caribbean takes you there with modern, world-class amenities designed to make every moment unforgettable.</p>     <h5>Luxury Onboard with Royal Caribbean</h5><p>      A journey with <strong>Royal Caribbean Cruises</strong> is a perfect blend of relaxation, fine dining, top-tier entertainment, and thrilling adventures. Designed to be your own personal paradise, these cruises cater to every traveler's dream. Explore the top onboard experiences that make Royal Caribbean truly exceptional.</p>     <h5>World-Class Entertainment</h5><p>      Experience breathtaking live performances while at sea! Royal Caribbean is known for its spectacular entertainment, featuring:</p><ul><li> <strong>Broadway-style musicals</strong> and award-winning performances</li><li> <strong>High-energy ice skating shows</strong> by professional skaters</li><li> <strong>AquaTheater productions</strong> with acrobatics and water stunts</li><li> <strong>Stand-up comedy</strong> and interactive theater experiences</li></ul>     <h5>Exciting Adventures for All</h5><p>      A Royal Caribbean Cruise isn't just about relaxation—it's about adventure! No matter your age or interests, there's something for everyone:</p><ul><li> **Rock climbing** for adrenaline seekers</li><li> **Surf simulators** for an epic wave-riding experience</li><li> **Skydiving simulators** for a thrill like no other</li><li> **Ziplining & bumper cars** for non-stop fun</li></ul>     <h5>Ultimate Relaxation & Wellness</h5><p>      Indulge in a rejuvenating escape with Royal Caribbean’s **Vitality Spa**, offering world-class treatments:</p><ul><li> **Full-body massages & aromatherapy** for deep relaxation</li><li> **Steam baths & hydrotherapy** for complete revitalization</li><li> **Luxury manicures & pedicures** for a polished look</li></ul>     <p>      Whether you seek adventure, relaxation, or a mix of both, **Royal Caribbean Cruises** ensures a journey like no other—where every moment is a memory in the making.  </p></div></section>",
+      "data": [
+        {
+          "title": "7 Nights Northbound Alaska & Hubbard Glacier",
+          "ship": "Radiance of the Seas",
+          "departing_from": "Vancouver",
+          "price": "$500",
+          "offers": [
+            "Instant Savings up to $150 Plus Onboard Credit",
+            "Free Gratuities",
+            "Exclusive discount for 2nd Guest"
+          ],
+          "image": "/images/cruise/image-1.png",
+          "logo": "/images/cruise/cruise_logo1.jpg",
+          "contact": "+1-888-539-5271"
+        },
+        {
+          "title": "7 Nights Coastal Mexico Holiday",
+          "ship": "Navigator of the Seas",
+          "departing_from": "San Pedro",
+          "price": "$1090",
+          "offers": [
+            "Up to 15% off",
+            "Onboard Credit",
+            "Free Gratuities & Kids Sail Free"
+          ],
+          "image": "/images/cruise/image-2.png",
+          "logo": "/images/cruise/cruise_logo1.jpg",
+          "contact": "+1-888-539-5271"
+        },
+        {
+          "title": "4 Nights Western Caribbean Cruise",
+          "ship": "Grandeur of the Seas",
+          "departing_from": "Tampa",
+          "price": "$180",
+          "offers": [
+            "Instant savings up to 25% plus Kids Sail Free",
+            "Free Gratuities",
+            "Exclusive discount for 2nd Guest"
+          ],
+          "image": "/images/cruise/image-3.png",
+          "logo": "/images/cruise/cruise_logo1.jpg",
+          "contact": "+1-888-539-5271"
+        },
+        {
+          "title": "8 Nights Hawaii Cruise",
+          "ship": "Quantum of the Seas",
+          "departing_from": "Honolulu",
+          "price": "$600",
+          "offers": [
+            "Instant Savings up to $350",
+            "Free Gratuities",
+            "Onboard Credit Plus Kids under 12 Sail Free"
+          ],
+          "image": "/images/cruise/image-4.png",
+          "logo": "/images/cruise/cruise_logo1.jpg",
+          "contact": "+1-888-539-5271"
+        },
+        {
+          "title": "3 Nights Bahamas Cruise",
+          "ship": "Allure of the Seas",
+          "departing_from": "Miami",
+          "price": "$400",
+          "offers": [
+            "Up to 25% instant savings",
+            "Free Gratuities",
+            "On Board Credit"
+          ],
+          "image": "/images/cruise/image-5.png",
+          "logo": "/images/cruise/cruise_logo1.jpg",
+          "contact": "+1-888-539-5271"
+        }
+      ]
+    },
+    {
+      "name": "celebrity",
+      "html": "<section class='container'>    <div class='mt-5'>        <h4>Exclusive Celebrity Cruise Experiences</h4>        <p>Step aboard a <strong>Celebrity Cruise</strong> and enter a world of effortless luxury, where every journey is designed to be as extraordinary as the destinations you explore. With voyages spanning across <strong>300+ destinations</strong> on all seven continents, Celebrity Cruises blends modern elegance, top-tier service, and immersive experiences. Whether you're dreaming of basking on Caribbean beaches, witnessing the glaciers of Alaska, or sipping wine in the vineyards of France, every moment on a Celebrity Cruise is crafted for unforgettable memories.</p>    </div></section><section class='container'>    <div class='mt-5'>        <h4>What to Expect Onboard</h4>        <p>From <strong>world-class dining</strong> to <strong>thrilling entertainment</strong> and <strong>pure relaxation</strong>, Celebrity Cruises redefines what it means to set sail in style. Here’s what makes the experience truly special:</p>        <h5>Spectacular Entertainment</h5>        <p>Entertainment on a Celebrity Cruise goes beyond the ordinary. Enjoy Broadway-inspired productions, live jazz sessions, comedy nights, and mesmerizing acrobatic performances. Whether you prefer a cozy evening with live music or a high-energy show, there’s something to suit every mood.</p>        <h5>Adventure at Every Destination</h5>        <p>The journey doesn’t stop when the ship docks. Celebrity Cruises offers unique excursions designed for all kinds of travelers. Snorkel in crystal-clear Caribbean waters, explore historic European cities, or embark on a wildlife adventure in the Galápagos. For those who love hands-on experiences, try cooking classes, wine tastings, or even glass-blowing sessions while onboard.</p>        <h5>Total Relaxation & Wellness</h5>        <p>Indulge in the <strong>ultimate self-care experience</strong> at <strong>The Spa on Celebrity Cruises</strong>. From hot stone massages and deep-tissue therapy to facials and aromatherapy sessions, every treatment is designed to leave you refreshed. For a serene escape, visit the Persian Garden, where steam rooms, saunas, and heated loungers offer pure relaxation.</p>        <p>A <strong>Celebrity Cruise</strong> is more than just a vacation—it’s an experience filled with <strong>luxury, adventure, and unforgettable moments</strong>. Whether you're looking for relaxation, excitement, or a bit of both, every journey is designed to be nothing short of spectacular.</p>    </div></section>",
+      "data": [
+        {
+          "title": "3 Nights Bahamas Cruise",
+          "ship": "Celebrity Reflection",
+          "departing_from": "Fort Lauderdale",
+          "price": "$500",
+          "image": "/images/cruise/image-1.png",
+          "offers": [
+            "Instant Savings up to $150 Plus Onboard Credit",
+            "Free Gratuities",
+            "Exclusive discount for 2nd Guest"
+          ]
+        },
+        {
+          "title": "9 Nights Hawaii Cruise",
+          "ship": "Celebrity Solstice",
+          "departing_from": "Honolulu",
+          "price": "$1090",
+          "image": "/images/cruise/image-1.png",
+          "offers": [
+            "Up to 15% off",
+            "Onboard Credit",
+            "Free Gratuities & Kids Sail Free"
+          ]
+        },
+        {
+          "title": "7 Nights Alaska Northbound Glacier",
+          "ship": "Celebrity Summit",
+          "departing_from": "Vancouver",
+          "price": "$180",
+          "image": "/images/cruise/image-1.png",
+          "offers": [
+            "Instant savings up to 25% plus Kids Sail Free",
+            "Free Gratuities",
+            "Exclusive discount for 2nd Guest"
+          ]
+        },
+        {
+          "title": "7 Nights Bahamas Mexico & Cayman",
+          "ship": "Celebrity Xcel",
+          "departing_from": "Fort Lauderdale",
+          "price": "$600",
+          "image": "/images/cruise/image-1.png",
+          "offers": [
+            "Instant Savings up to $350",
+            "Free Gratuities",
+            "Onboard Credit Plus Kids under 12 Sail Free"
+          ]
+        },
+        {
+          "title": "6 Nights Bahamas Mexico & Grand Cayman",
+          "ship": "Celebrity Reflection",
+          "departing_from": "Fort Lauderdale",
+          "price": "$400",
+          "image": "/images/cruise/image-1.png",
+          "offers": [
+            "Up to 25% instant savings",
+            "Free Gratuities",
+            "On Board Credit"
+          ]
+        },
+        {
+          "title": "10 Nights Mediterranean Cruise",
+          "ship": "Celebrity Apex",
+          "departing_from": "Barcelona",
+          "price": "$1200",
+          "image": "/images/cruise/image-1.png",
+          "offers": [
+            "Exclusive Onboard Credit",
+            "Free Gratuities",
+            "Up to $200 Instant Savings"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "holland",
+      "html": "<section class='container'><div class='mt-5'><h4>Exclusive Holland America Cruise Offers</h4><p>      With over <strong>150 years of excellence</strong> in the cruise industry, <strong>Holland America Line</strong> is among the most prestigious cruise lines worldwide. Operating nearly <strong>500 voyages</strong> and visiting <strong>470+ ports across 98 countries</strong>, this luxury cruise takes travelers to breathtaking destinations, including the Caribbean, Alaska, Hawaii, and the South Pacific.  </p><p>      Known for its commitment to sustainability and impeccable service, Holland America Cruises blends **comfort, adventure, and world-class entertainment** to create an unforgettable travel experience. Whether you're indulging in gourmet cuisine, enjoying captivating performances, or simply unwinding in an elegant ambiance, every moment aboard is designed for your delight.</p>     <h5>Unforgettable Onboard Experiences</h5><p>      Set sail in absolute luxury with **Holland America Cruises**. This **premium yet affordable** cruise line offers an exceptional mix of adventure, relaxation, and top-tier hospitality. Explore some of the finest experiences awaiting you onboard.</p>     <h5>Live Entertainment & Spectacular Shows</h5><p>      Enjoy an exciting lineup of entertainment throughout your journey, featuring:</p><ul><li>🎷 **B.B. King's Blues Club** – Immerse yourself in soulful jazz & blues music</li><li> **World Stage** – A unique, immersive theater experience</li><li> **Step One Dance Company** –Watch breathtaking dance performances</li><li> **Live rock & roll& classical music** on select ships</li></ul>     <h5>Gourmet Dining & Nightlie</h5><p>      Indulge in a **world-class culinary journey** with expertly crafted menus featuring:</p><ul><li> **Nami Sushi & Tamarind** – Authentic Asian flavors and fresh seafood</li><li> **Fine dining at The Dining Room** – Mediterranean and international cuisine</li><li> **Signature wine tastings & premium cocktails** at elegant lounges</li></ul>     <h5>Exciting Activities for All Ages</h5><p>      Beyond luxurious dining and performances, **Holland America Cruises** offers a variety of exciting activities:</p><ul><li> **Junior Ranger Program & Pirate Treasure Hunts** for kids</li><li> **Hands-on pizza-making & cooking classes**</li><li> **Pickleball at Sea** – Fun & competitive games for adults</li></ul>     <h5>Relaxation & Wellness at Sea</h5><p>      Unwind and refresh your mind and body with Holland America’s **luxurious spa and wellness services**:</p><ul><li> **Rejuvenating massages & facials** at **Greenhouse Spa & Salon**</li><li> **Yoga sessions & state-of-the-art fitness centers**</li><li> **Professional salon services for hair & nails**</li></ul>     <p>      Whether you're looking for **adventure, relaxation, or world-class entertainment**, <strong>Holland America Cruises</strong> offers a sophisticated and immersive travel experience like no other.  </p></div></section> ",
+      "data": [
+        {
+          "title": "4 Nights Pacific Coastal Cruise",
+          "ship": "Koningsdam",
+          "departing_from": "Vancouver",
+          "price": "$500",
+          "image": "/images/cruise/image-1.png",
+          "logo": "/_next/image?url=%2Fimages%2Fcruise%2Fholland-logo.png&w=640&q=75",
+          "offers": [
+            "Instant Savings up to $150 Plus Onboard Credit",
+            "Free Gratuities",
+            "Exclusive discount for 2nd Guest"
+          ],
+          "booking_link": "tel:+1-888-539-5271"
+        },
+        {
+          "title": "4 Nights Pacific Coastal Cruise",
+          "ship": "Zaandam",
+          "departing_from": "San Diego",
+          "price": "$1090",
+          "image": "/images/cruise/image-1.png",
+          "logo": "/_next/image?url=%2Fimages%2Fcruise%2Fholland-logo.png&w=640&q=75",
+          "offers": [
+            "Up to 15% off",
+            "Onboard Credit",
+            "Free Gratuities & Kids Sail Free"
+          ],
+          "booking_link": "tel:+1-888-539-5271"
+        },
+        {
+          "title": "4 Nights Western Caribbean Cruise",
+          "ship": "Eurodam",
+          "departing_from": "Fort Lauderdale",
+          "price": "$180",
+          "image": "/images/cruise/image-1.png",
+          "logo": "/_next/image?url=%2Fimages%2Fcruise%2Fholland-logo.png&w=640&q=75",
+          "offers": [
+            "Instant savings up to 25% plus Kids Sail Free",
+            "Free Gratuities",
+            "Exclusive discount for 2nd Guest"
+          ],
+          "booking_link": "tel:+1-888-539-5271"
+        },
+        {
+          "title": "7 Nights Glacier Discovery Northbound",
+          "ship": "Noordam",
+          "departing_from": "Vancouver",
+          "price": "$600",
+          "image": "/images/cruise/image-1.png",
+          "logo": "/_next/image?url=%2Fimages%2Fcruise%2Fholland-logo.png&w=640&q=75",
+          "offers": [
+            "Instant Savings up to $350",
+            "Free Gratuities",
+            "Onboard Credit Plus Kids under 12 Sail Free"
+          ],
+          "booking_link": "tel:+1-888-539-5271"
+        },
+        {
+          "title": "7 Nights Tropical Caribbean",
+          "ship": "Nieuw Amsterdam",
+          "departing_from": "Fort Lauderdale",
+          "price": "$400",
+          "image": "/images/cruise/image-1.png",
+          "logo": "/_next/image?url=%2Fimages%2Fcruise%2Fholland-logo.png&w=640&q=75",
+          "offers": [
+            "Up to 25% instant savings",
+            "Free Gratuities",
+            "On Board Credit"
+          ],
+          "booking_link": "tel:+1-888-539-5271"
+        },
+        {
+          "title": "7 Nights Alaska Cruise",
+          "ship": "Oosterdam",
+          "departing_from": "Seattle",
+          "price": "$350",
+          "image": "/images/cruise/image-1.png",
+          "logo": "/_next/image?url=%2Fimages%2Fcruise%2Fholland-logo.png&w=640&q=75",
+          "offers": [
+            "Exclusive discount for 2nd Guest",
+            "Free Gratuities",
+            "On Board Credit"
+          ],
+          "booking_link": "tel:+1-888-539-5271"
+        }
+      ]
+    },
+    {
+      "name": "norwegian",
+      "html": "<section class='container'><div class='mt-5'><h4>Exclusive Norwegian Cruise Line Offers</h4><p>      Embark on an unforgettable journey with <strong>Norwegian Cruise Line</strong>, where luxury meets flexibility. As a pioneer in freestyle cruising, Norwegian offers guests the freedom to dine, relax, and explore at their own pace. Perfect for families, couples, and solo travelers alike, this cruise line combines affordability with world-class amenities.  </p><p>      Norwegian Cruises sail through breathtaking destinations such as the **Caribbean, Alaska, Bermuda, and the Panama Canal**, as well as select locations in **Europe, Asia, and South America**. Popular departure points include **Boston, Barcelona, New Orleans, New York, Quebec, Seattle, Tampa, and Los Angeles**.</p>     <h5>Unparalleled Onboard Experience</h5><p>      When you set sail with <strong>Norwegian Cruise Line</strong>, you're in for a world of adventure, relaxation, and exceptional service. From thrilling entertainment to indulgent dining experiences, every moment on board is designed for ultimate enjoyment.</p>     <h5>Live Entertainment & Spectacular Shows</h5><p>      Experience non-stop entertainment with **Norwegian Cruise Line’s** diverse performances:</p><ul><li> **Stand-up comedy shows** for endless laughter</li><li> **Broadway-style theater productions**</li><li> **Live bands and musical performances**</li>li> **Exciting dance and cultural shows**</li></ul>     <5>Culinary Freedom & Dining Delights</5><p>      What sets **Norwegian Cruis Line** apart is its **freestyle dining** concept, allowing you to enjoy:</p><ul><li> **Gourmet menus at specialty restaurants & cafés**</li><li> **Dine whenever & wherever you like** – no fixed schedules</li><li> **22 bars & lounges** serving premium cocktails & fine wines</li></ul>     <h5>Thrilling Adventures & Family Fun</h5><p>      From heart-pounding thrills to all-day fun, Norwegian Cruises offer activities for all ages:</p><ul><li> **Waterparks with exhilarating slides & rides**</li><li> **Free Fall & high-speed water slides**</li><li> **Go-kart racing & bungee jumping**</li><li> **Wall climbing & other exciting sports activities**</li></ul>     <h5>Relax & Rejuvenate at Sea</h5><p>      Escape into a world of tranquility with **Norwegian Cruise Line’s** premium spa services:</p><ul><li> **Luxury massages & body treatments** at the **Mandara Spa**</li><li> **Steam baths, facials, & acupuncture therapies**</li><li> **Salon services for the ultimate pampering experience**</li></ul>     <p>      Whether you're looking for adventure, relaxation, or world-class dining, **Norwegian Cruise Line** delivers an exceptional voyage filled with freedom, excitement, and unforgettable moments.  </p></div></section>",
+      "data": [
+        {
+          "title": "3 Nights Bahamas Cruise",
+          "ship": "Norwegian Epic",
+          "departing_from": "Port Canaveral, Florida",
+          "price": "$500",
+          "image": "/images/cruise/image-1.png",
+          "logo": "/_next/image?url=%2Fimages%2Fcruise%2Fnorwegian-logo.png&w=640&q=75",
+          "offers": [
+            "Instant Savings up to $150 Plus Onboard Credit",
+            "Free Gratuities",
+            "Exclusive discount for 2nd Guest"
+          ],
+          "booking_link": "tel:+1-888-539-5271"
+        },
+        {
+          "title": "7 Nights Alaska: Hubbard Glacier & Skagway",
+          "ship": "Norwegian Jewel",
+          "departing_from": "Anchorage",
+          "price": "$1090",
+          "image": "/images/cruise/image-1.png",
+          "logo": "/_next/image?url=%2Fimages%2Fcruise%2Fnorwegian-logo.png&w=640&q=75",
+          "offers": [
+            "Up to 15% off",
+            "Onboard Credit",
+            "Free Gratuities & Kids Sail Free"
+          ],
+          "booking_link": "tel:+1-888-539-5271"
+        },
+        {
+          "title": "9 Nights Mediterranean: Italy France & Spain",
+          "ship": "Norwegian Escape",
+          "departing_from": "Barcelona",
+          "price": "$180",
+          "image": "/images/cruise/image-1.png",
+          "logo": "/_next/image?url=%2Fimages%2Fcruise%2Fnorwegian-logo.png&w=640&q=75",
+          "offers": [
+            "Instant savings up to 25% plus Kids Sail Free",
+            "Free Gratuities",
+            "Exclusive discount for 2nd Guest"
+          ],
+          "booking_link": "tel:+1-888-539-5271"
+        },
+        {
+          "title": "7 Nights Caribbean: Harvest Caye Cozumel & Roatan",
+          "ship": "Norwegian Getaway",
+          "departing_from": "New Orleans",
+          "price": "$600",
+          "image": "/images/cruise/image-1.png",
+          "logo": "/_next/image?url=%2Fimages%2Fcruise%2Fnorwegian-logo.png&w=640&q=75",
+          "offers": [
+            "Instant Savings up to $350",
+            "Free Gratuities",
+            "Onboard Credit Plus Kids under 12 Sail Free"
+          ],
+          "booking_link": "tel:+1-888-539-5271"
+        },
+        {
+          "title": "7 Nights Bermuda",
+          "ship": "Norwegian Joy",
+          "departing_from": "New York",
+          "price": "$400",
+          "image": "/images/cruise/image-1.png",
+          "logo": "/_next/image?url=%2Fimages%2Fcruise%2Fnorwegian-logo.png&w=640&q=75",
+          "offers": [
+            "Up to 25% instant savings",
+            "Free Gratuities",
+            "Onboard Credit"
+          ],
+          "booking_link": "tel:+1-888-539-5271"
+        },
+        {
+          "title": "8 Nights Canada & New England",
+          "ship": "Norwegian Breakaway",
+          "departing_from": "New York",
+          "price": "$850",
+          "image": "/images/cruise/image-1.png",
+          "logo": "/_next/image?url=%2Fimages%2Fcruise%2Fnorwegian-logo.png&w=640&q=75",
+          "offers": [
+            "Up to 30% instant savings",
+            "Free Gratuities",
+            "Onboard Credit"
+          ],
+          "booking_link": "tel:+1-888-539-5271"
+        }
+      ]
+    }
+  ]
+  

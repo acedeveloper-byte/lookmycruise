@@ -226,6 +226,8 @@ textarea::placeholder {
   width: 75%;
   margin: 11px;
   color: #fff;
+}
+
 .top-dest{
   position: relative;
     top: -4rem;
@@ -261,4 +263,35 @@ textarea::placeholder {
 
 }
 
+
+
+
+
+
+.fixed-bottom {
+  background: #173662 !important;
+  padding: 15px !important;
+  text-align: center !important;
+  color: #fff !important;
+  position: fixed !important;
+  bottom: -17px !important;
+  font-size: 20px !important;  
+  font-weight: 700 !important;
+
 }
+
+
+
+.blink {
+  animation: blink-animation 1s infinite;
+}
+
+@keyframes blink-animation {
+  50% {
+    opacity: 0;
+  }
+}
+
+
+
+

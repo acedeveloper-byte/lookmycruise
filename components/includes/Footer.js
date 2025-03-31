@@ -8,10 +8,11 @@ import { MdCall } from "react-icons/md";
 
 
 import Link from "next/link";
+import CallBtn from './../CallBtn';
 
 const Footer = () => {
   return (
-    <div>
+    <>
       <hr />
       <footer className="footer " style={{ marginTop: "5rem" }}>
         <Container>
@@ -175,8 +176,18 @@ const Footer = () => {
             Fees.
           </p>
         </Container>
+
+      
+   
       </footer>
-    </div>
+<br />
+
+<br />
+<br />
+
+
+      <CallBtn />
+    </>
   );
 };
 
