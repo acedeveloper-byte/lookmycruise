@@ -5,10 +5,10 @@ import { Navbar, Nav, Container, Col, Row } from "react-bootstrap";
 const Header = () => {
   return (
     <div>
-       <Navbar expand="lg" className="bg-white shadow-sm py-2">
+      <Navbar expand="lg" className="bg-white shadow-sm py-2">
         <Container>
           <Navbar.Brand href="/">
-            <span className="fw-bold fs-4"><img src="/images/logo/logo.png" className="img-responsive img-fluid" alt="logo" /></span>
+            <span className=""><img src="/images/logo/logo.png" className="img-responsive image-banner" alt="logo" /></span>
           </Navbar.Brand>
 
           <Navbar.Toggle aria-controls="navbarNav" />
@@ -30,7 +30,7 @@ const Header = () => {
           </Navbar.Collapse>
         </Container>
       </Navbar>
-     
+
     </div>
   )
 }

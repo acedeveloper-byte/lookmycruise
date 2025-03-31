@@ -7,7 +7,7 @@ import Link from "next/link";
 const Footer = () => {
   return (
     <div>
-      <hr/>
+      <hr />
       <footer className="footer " style={{ marginTop: "5rem" }}>
         <Container>
           <Row className="my-5">
@@ -101,7 +101,7 @@ const Footer = () => {
             </Col>
           </Row>
 
-        
+
 
           {/* Social Media Icons */}
           <div className="social-icons">
@@ -111,7 +111,7 @@ const Footer = () => {
        <FaPinterest />
        <FaLinkedin /> */}
           </div>
-          <hr/>
+          <hr />
 
           {/* Terms & Policy */}
           <p className="text-center text-muted small mt-3">

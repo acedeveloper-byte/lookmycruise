@@ -6,8 +6,8 @@ import { Container, Row, Col, Form, Button } from "react-bootstrap";
 const SearchEngine = () => {
   return (
     <div>
+
       <div className="hero-section">
-        {/* Background Image */}
         <div className="hero-image">
           <img
             src="/images/bg.png"
@@ -19,10 +19,13 @@ const SearchEngine = () => {
               objectFit: "cover !important",
             }}
           />
+
+
         </div>
 
         {/* Search Bar */}
-        <Container className="search-container mob-search search-from">
+        <Container className="search-container mob-search search-from" fluid>
+
           <Row className="align-items-center form-search">
             <Col md={3}>
               <Form.Group>
@@ -31,7 +34,7 @@ const SearchEngine = () => {
             </Col>
             <Col md={3}>
               <Form.Group>
-                <Form.Control type="date" placeholder="hii"/>
+                <Form.Control type="date" placeholder="hii" />
               </Form.Group>
             </Col>
             <Col md={3}>
@@ -42,10 +45,16 @@ const SearchEngine = () => {
             <Col md={3} className="d-flex align-items-end ">
               <Button
                 className="btn-search btn btn-sm search-button"
-               
+
               >
                 Search and Book
               </Button>
+            </Col>
+            <Col md={3}>
+              <img src="" />
+              <img src="" />
+              <img src="" />
+              <img src="" />
             </Col>
           </Row>
         </Container>
