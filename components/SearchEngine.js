@@ -1,4 +1,4 @@
-"use client";
+'use client';
 import React from "react";
 import { Container, Row, Col, Form, Button } from "react-bootstrap";
 // import "../app/globals.css";
@@ -27,22 +27,22 @@ const SearchEngine = () => {
         <Container className="search-container mob-search search-from" fluid>
 
           <Row className="align-items-center form-search">
-            <Col md={3}>
+            <Col md={3} className="my-2">
               <Form.Group>
                 <Form.Control type="text" placeholder="Enter destination" />
               </Form.Group>
             </Col>
-            <Col md={3}>
+            <Col md={3} className="my-2">
               <Form.Group>
                 <Form.Control type="date" placeholder="hii" />
               </Form.Group>
             </Col>
-            <Col md={3}>
+            <Col md={3} className="my-2">
               <Form.Group>
                 <Form.Control type="date" />
               </Form.Group>
             </Col>
-            <Col md={3} className="d-flex align-items-end ">
+            <Col md={3} className="d-flex align-items-end my-2">
               <Button
                 className="btn-search btn btn-sm search-button"
 
@@ -50,12 +50,12 @@ const SearchEngine = () => {
                 Search and Book
               </Button>
             </Col>
-            <Col md={3}>
+            {/* <Col md={3}>
               <img src="" />
               <img src="" />
               <img src="" />
               <img src="" />
-            </Col>
+            </Col> */}
           </Row>
         </Container>
       </div>

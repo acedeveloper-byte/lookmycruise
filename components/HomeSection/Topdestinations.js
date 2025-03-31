@@ -35,28 +35,28 @@ const TopDestination = () => {
     return (
         <>
             <Container>
-                <h1 className="my-4 destination-head">Explore Top destinations</h1>
+                <h1 className="my-4 destination-head ">Explore Top Destinations</h1>
 
                 <Row>
                     <Col md={3}>
                         <div className="destination-cards">
                             <img src="/images/cruises/medettiran-cruise.png" />
                             <div className="text-center">
-                                <h5>Mediterranean cruise</h5>
+                                <h5 className="top-dest">Mediterranean cruise</h5>
                             </div>                    </div>
                     </Col>
                     <Col md={3}>
                         <div className="destination-cards">
                             <img src="/images/cruises/mexico-cruise.png" />
                             <div className="text-center">
-                                <h5>Mexico cruises</h5>
+                                <h5 className="top-dest">Mexico cruises</h5>
                             </div>                    </div>
                     </Col>
                     <Col md={3}>
                         <div className="destination-cards">
                             <img src="/images/cruises/alaska-cruise.png" />
                             <div className="text-center">
-                                <h5>Alaska cruises</h5>
+                                <h5 className="top-dest">Alaska cruises</h5>
                             </div>
 
                         </div>
@@ -65,7 +65,7 @@ const TopDestination = () => {
                         <div className="destination-cards">
                             <img src="/images/cruises/caribbean-cruise.png" />
                             <div className="text-center">
-                                <h5>Caribbean cruises</h5>
+                                <h5 className="top-dest">Caribbean cruises</h5>
                             </div>                    </div>
                     </Col>
                 </Row>

@@ -1,6 +1,7 @@
 "use client";
 import React from "react";
 import { Navbar, Nav, Container, Col, Row } from "react-bootstrap";
+import { MdCall } from "react-icons/md";
 
 const Header = () => {
   return (
@@ -23,7 +24,7 @@ const Header = () => {
             <div className="expert-contact">
               {/* <span className="expert-text">Speak to an expert now</span> */}
               <a href="tel: +1(855) 590-0764" className="expert-phone">
-                +1(000) 000-0000
+              <MdCall size={25}  /> +1(000) 000-0000
               </a>
             </div>
 
