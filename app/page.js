@@ -6,6 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Footer from "@/components/includes/Footer";
 import SearchEngine from "@/components/SearchEngine";
 import CruiseCards from "@/components/CruiseCards";
+import OceanCruise from "@/components/OceanCruise";
 
 
 export default function Home() {
@@ -17,6 +18,7 @@ export default function Home() {
    <CruiseCards/>
   <CruiseHome/>
 
+<OceanCruise/>
   <Footer/>
    </>
   );

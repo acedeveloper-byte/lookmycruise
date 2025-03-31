@@ -89,22 +89,21 @@ textarea::placeholder {
 
 
 .destinations {
-  padding: 50px 0;
-  background-color: #f8f9fa;
+  padding: 10px 0;
+  /* background-color: #f8f9fa; */
 }
 
 .destination-card {
-  border: none;
-  border-radius: 10px;
-  overflow: hidden;
-  transition: transform 0.3s ease-in-out;
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-  width: 100%;
+  height: 20.5rem !important;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px !important;
+  border-radius: 1rem !important;
+
 }
 
 .destination-card:hover {
   transform: translateY(-5px);
   box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .destination-name {
@@ -114,27 +113,48 @@ textarea::placeholder {
 }
 
 .destination-title {
-  font-size: 1rem;
-  color: #007bff;
-  text-align: center;
+  font-size: 19px;
+  color: #000;
+  /* text-align: center; */
+  padding: 0 13px;
+  font-weight: 600;
+
 }
 
 .destination-description {
-  color: #555;
-  text-align: center;
+  color: #555555c7;
+  /* text-align: center; */
   font-size: 0.9rem;
+  padding: 0 17px;
+  font-weight: 500;
 }
 
 .destination-price {
-  font-size: 1.2rem;
-  font-weight: bold;
-  color: #28a745;
-  text-align: center;
+  font-size: 21px;
+    font-weight: 600;
+    /* color: #28a745; */
+    text-align: center;
+    color: #000;
 }
 
 .destination-extra {
   font-size: 0.8rem;
   color: #666;
   text-align: center;
+}
+
+
+
+.hightlights{
+  background: #0C38520F !important;
+  padding: 32px 34px !important;
+}
+
+
+.cards-text-list{
+  position: relative !important;
+  top: -3rem !important;
+  border-radius: 1rem !important;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px !important;
 }
 
