@@ -59,7 +59,6 @@ console.log(  "filteredData:" ,   filteredData)
         <>
             <Header />
             <SearchEngine />
-            <CruiseCards />
             <section className="destinations ">
       <Container>
        
@@ -110,10 +109,20 @@ console.log(  "filteredData:" ,   filteredData)
                           )}
    
         </Row>
+
+        
       </Container>
     </section>
-            <CruiseHome />
-            <OceanCruise />
+    <section>
+                {loading ? null :
+                    filteredData.map((item, index) => {
+                        // return <div dangerouslySetInnerHTML={{ __html: item.html }} />
+                        return <OceanCruise html={item.html} />
+
+                    })
+                }
+            </section>
+            
             <Footer />
         </>
     )
