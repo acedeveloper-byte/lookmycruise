@@ -6,50 +6,30 @@ const destinations = [
   {
     title: "5 Night Western Caribbean Cruise",
     description: "Starting from",
-    price: "40,000/person",
+    price: "40,000$",
     extra: "Taxes & fees included.*",
     image: "/images/caribbean-cruise.png",
   },
 
   {
-    title: "5 Night Western Caribbean Cruise",
+    title: "4 Night Bahamas & Perfect Day Cruise",
     description: "Starting from",
-    price: "40,000/person",
+    price: "36,000$",
     extra: "Taxes & fees included.*",
-    image: "/images/caribbean-cruise.png",
+    image: "/images/bahamas-cruis.png",
   },
 
   {
-    title: "5 Night Western Caribbean Cruise",
+    title: "3 Night Western Caribbean Day Cruise",
     description: "Starting from",
-    price: "40,000/person",
+    price: "36,000$",
     extra: "Taxes & fees included.*",
     image: "/images/caribbean-cruise.png",
-  },
+  }
 
-  {
-    title: "5 Night Western Caribbean Cruise",
-    description: "Starting from",
-    price: "40,000/person",
-    extra: "Taxes & fees included.*",
-    image: "/images/caribbean-cruise.png",
-  },
 
-  {
-    title: "5 Night Western Caribbean Cruise",
-    description: "Starting from",
-    price: "40,000/person",
-    extra: "Taxes & fees included.*",
-    image: "/images/caribbean-cruise.png",
-  },
 
-  {
-    title: "5 Night Western Caribbean Cruise",
-    description: "Starting from",
-    price: "40,000/person",
-    extra: "Taxes & fees included.*",
-    image: "/images/caribbean-cruise.png",
-  },
+  
 ];
 
 const dests = [

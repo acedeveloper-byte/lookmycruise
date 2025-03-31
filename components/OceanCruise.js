@@ -3,38 +3,33 @@ import { Container, Row, Col } from "react-bootstrap";
 
 const OceanCruise = () => {
   return (
-    <Container className="my-5 hightlights py-5">
-      <h2 className="text-center">Highlights of an Ocean Cruise</h2>
+    <Container className="my-5 hightlights" >
+      <h2 className="text-center">Chart Your Course with Look My Cruise!</h2>
 
       <p>
-        On a Viking ocean cruise, you will sail into the heart of your
-        destination. From our prime, central berths in the world’s great
-        cities such as Venice, London, Hong Kong, and Sydney, and in
-        seldom-visited ports like Kotor, Montenegro, and Scotland’s Shetland
-        Islands, enriching cultural discoveries are just a short walk from
-        your ship. Further, you will spend more time in port, with overnight
-        stays in virtually all ports of embarkation and disembarkation. Here
-        is a small sample of where a Viking ocean cruise can take you:
+        Want to turn your cruise dream into reality? Contact Look My Cruise now,
+        and let us be your perfect booking partner for your next voyage. We
+        offer personalized cruise trips so each guest can have the journey of
+        their lifetime. Whether you are looking forward to a luxurious escape or
+        a budget-friendly voyage, we will help you find the ideal cruise for
+        you.
       </p>
 
       <Row>
         <Col md={6}>
           <ul>
-            <li>Majestic fjords from Norway to Chile</li>
-            <li>Up the Thames River for easy access to historic London</li>
-            <li>Into the mighty Amazon River</li>
-            <li>New Zealand’s magnificent Milford and Doubtful Sounds</li>
+            <li>Exclusive Deals and Discounts</li>
+            <li>Top-Rated Ships</li>
+            <li>Wide Selection of Destinations
+            </li>
+            <li>Incredible Onboard Amenities</li>
+            <li>24*7 Customer Support</li>
+            <li>Custom Shore Excursions
+            </li>
           </ul>
         </Col>
 
-        <Col md={6}>
-          <ul>
-            <li>The stunning Mediterranean coastline</li>
-            <li>Asia’s vibrant port cities, from Tokyo to Singapore</li>
-            <li>The breathtaking glaciers of Alaska</li>
-            <li>The exotic ports of the Caribbean</li>
-          </ul>
-        </Col>
+       
       </Row>
     </Container>
   );
